@@ -2,7 +2,7 @@
 
 👀 I'm passionate about both front-end and back-end development.
 
-🌱 Currently, I'm honing my skills in Ruby on Rails.
+🌱 Currently, I'm honing my skills in Ruby on Rails, and I plan to learn next React and improve my JavaScript knowledge.
 
 💞️ I'm actively seeking opportunities to collaborate on exciting projects.
 
